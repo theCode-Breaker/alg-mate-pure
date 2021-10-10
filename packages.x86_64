@@ -114,6 +114,7 @@ network-manager-applet
 neofetch
 mate-terminal
 mate-extra
+noto-fonts
 
 #Installer
 grub
