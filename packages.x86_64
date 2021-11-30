@@ -107,6 +107,7 @@ xorg-server
 lightdm
 lightdm-gtk-greeter
 mate
+xf86-input-libinput
 xdg-user-dirs
 bash-completion
 networkmanager
